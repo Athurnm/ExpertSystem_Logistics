@@ -1,6 +1,5 @@
 cffi==1.13.0
 Click==7.0
-clipspy==0.3.3
 Flask==1.1.1
 gunicorn==19.9.0
 itsdangerous==1.1.0
