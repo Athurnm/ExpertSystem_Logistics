@@ -1,0 +1,11 @@
+cffi==1.13.0
+Click==7.0
+clipspy==0.3.3
+Flask==1.1.1
+gunicorn==19.9.0
+itsdangerous==1.1.0
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+pkg-resources==0.0.0
+pycparser==2.19
+Werkzeug==0.16.0
